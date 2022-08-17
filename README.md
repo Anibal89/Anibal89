@@ -1,6 +1,5 @@
 ### Bienvenido a mi perfil de GitHub 👋
 
-<img alt="Code" src="./assets/Banner1.jpg" align="center" style ="width: 700px;"/>
 <h3> Estudiante - Ingeniería en Sistemas y Ciencias de La Computación </h3>
 
 <img alt="Code" src="./assets/GitImage.gif" align="center" style ="width: 300px;"/>
