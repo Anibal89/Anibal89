@@ -1,6 +1,6 @@
 ### Bienvenido a mi perfil de GitHub 👋
 
-<h3> Estudiante - Ingeniería en Sistemas y Ciencias de La Computación </h3>
+<h3> Estudiante - Ingeniería en Sistemas y Ciencias de La Computación <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>  
 
 <p align="center"><img alt="Code" src="./assets/GitImage.gif" align="center" style ="width: 350px"/></p>
 
