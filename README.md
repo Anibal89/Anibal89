@@ -25,7 +25,7 @@
         <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
         <a href="https://dotnet.microsoft.com/es-es/apps/aspnet" target="_blank" rel="noreferrer"></a> <img src="https://ssieducation.co.in/wp-content/uploads/2020/12/asp-net-mvc-1-.jpg" alt="xd" width="40" height="40"/> </a>
-        <a href="https://sass-lang.com" target="_blank" rel="noreferrer"></a> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="xd" width="30" height="40"/></a></p>
+        <a href="https://sass-lang.com" target="_blank" rel="noreferrer"></a> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="xd" width="30" height="40"/></a>
         <a href="https://ionicframework.com/" target="_blank" rel="noreferrer"></a> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="xd" width="30" height="40"/></a></p>
 
 
